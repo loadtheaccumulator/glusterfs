@@ -1,2 +1,2 @@
-.
+setup.py
 git://github.com/distaf.git@master#egg=distaf
