@@ -1,1 +1,2 @@
-git+http://github.com/loadtheaccumulator/distaf.git@master#egg=distaf
+#git+http://github.com/loadtheaccumulator/distaf.git@master#egg=distaf
+git+git://github.com/gluster/distaf#egg=distaf
