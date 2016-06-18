@@ -42,7 +42,7 @@ setup(
         'Programming Language :: Python :: 2.7'
         'Topic :: Software Development :: Testing'
     ],
-    install_requires=['distaf'],
+    #install_requires=['distaf'],
     dependency_links=['http://github.com/gluster/distaf/tarball/master#egg=distaf'],
     namespace_packages = ['distaflibs']
 )
