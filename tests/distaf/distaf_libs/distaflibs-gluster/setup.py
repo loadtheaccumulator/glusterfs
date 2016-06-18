@@ -43,5 +43,6 @@ setup(
         'Topic :: Software Development :: Testing'
     ],
     install_requires=['distaf'],
+    dependency_links=['http://github.com/loadtheaccumulator/distaf/tarball/master#egg=distaf'],
     namespace_packages = ['distaflibs']
 )
