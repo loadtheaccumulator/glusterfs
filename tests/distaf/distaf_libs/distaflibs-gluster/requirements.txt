@@ -1,1 +1,1 @@
-git://github.com/distaf.git@master#egg=distaf
+git://github.com/gluster/distaf@master#egg=distaf
