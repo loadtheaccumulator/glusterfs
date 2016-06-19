@@ -6,17 +6,22 @@
 Welcome to DiSTAF Gluster Libs's documentation!
 ===============================================
 
-Contents:
+Contents
+--------
 
 .. toctree::
    :maxdepth: 2
 
 
+Related Links
+-------------
+
+   `DiSTAF Main Documentation <http://distaf.readthedocs.io/>`_
+
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
