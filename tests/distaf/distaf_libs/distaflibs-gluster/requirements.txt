@@ -1,8 +1,4 @@
-plumbum
-plumbum
-install plumbum --upgrade
-decorator
-git+https://github.com/gluster/distaf.git@master#egg=distaf
+git+https://github.com/gluster/distaf.git@master
 # yikes this deosn't work with read the docs!!!
 #git+git://github.com/gluster/distaf#egg=distaf
 #-e git+git@github.com:gluster/distaf.git#egg=distaf
