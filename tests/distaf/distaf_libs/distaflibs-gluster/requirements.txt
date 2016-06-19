@@ -1,4 +1,7 @@
+plumbum
+decorator
 git+https://github.com/gluster/distaf.git@master#egg=distaf
 # yikes this deosn't work with read the docs!!!
 #git+git://github.com/gluster/distaf#egg=distaf
 #-e git+git@github.com:gluster/distaf.git#egg=distaf
+plumbum
