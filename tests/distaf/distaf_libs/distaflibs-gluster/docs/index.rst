@@ -13,6 +13,15 @@ Contents
    :maxdepth: 2
 
 
+API
+---
+
+.. toctree::
+    :maxdepth: 2
+
+    source/distaflibs.gluster
+
+
 Related Links
 -------------
 
