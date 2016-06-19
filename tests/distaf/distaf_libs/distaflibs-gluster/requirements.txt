@@ -1,5 +1,5 @@
 #git+https://github.com/gluster/distaf.git@master
-git+https://github.com/gluster/distaf.git@distafdocs
+git+https://github.com/loadtheaccumulator/distaf.git@distafdocs
 # yikes this deosn't work with read the docs!!!
 #git+git://github.com/gluster/distaf#egg=distaf
 #-e git+git@github.com:gluster/distaf.git#egg=distaf
