@@ -1,4 +1,6 @@
 plumbum
+plumbum
+plumbum
 decorator
 git+https://github.com/gluster/distaf.git@master#egg=distaf
 # yikes this deosn't work with read the docs!!!
